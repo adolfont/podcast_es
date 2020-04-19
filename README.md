@@ -21,3 +21,4 @@
  
  - Adolfo Neto
  - [Emanoel Barreiros](https://twitter.com/ebarreiros/status/1251296952442146818)
+ - Gustavo Pinto
