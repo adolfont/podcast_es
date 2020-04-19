@@ -9,3 +9,4 @@
 
 - Entrevistas com pesquisadores brasileiros que atuam no Brasil ou no exterior
 - Debates sobre temas (ao vivo ou não)
+  - [Roda-viva de TI](https://twitter.com/1danilo/status/1251893146054807553)
