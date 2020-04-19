@@ -14,3 +14,8 @@
 ## Questões em aberto
 
  - [Quantas pessoas seriam necessárias e quais funções?](https://twitter.com/leofernandesmo/status/1251888287209398272)
+ 
+ ## Voluntários
+ 
+ - Adolfo Neto
+ - [Emanoel Barreiros](https://twitter.com/ebarreiros/status/1251296952442146818)
