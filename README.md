@@ -2,7 +2,9 @@
 
 [Envie aqui seu comentário](https://github.com/adolfont/podcast_es/issues/1)
 
-## Objetivos
+## Possíveis Objetivos
+
+- [Divulgar as pesquisas feitas por brasileiros em engenharia de software](https://twitter.com/gustavopinto/status/1251236532620611584)
 
 
 ## Possíveis Formatos
